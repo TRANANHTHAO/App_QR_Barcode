@@ -1,12 +1,10 @@
 //import 'package:appcheckqr/utils/HiveUtils.dart';
 import 'dart:ffi';
-
-
 import 'package:appcheckqr/widgets/network_image_bytes.dart';
-import 'package:cached_network_image/cached_network_image.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
-import 'package:webview_flutter/webview_flutter.dart';
+
 import 'package:http/http.dart' as http;
 
 import 'models/product.dart';
@@ -160,36 +158,21 @@ class ProductDetailsPage extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const SizedBox(
-          height: 20,
-        ),
+        const SizedBox(height: 20,),
         Padding(
-          padding: const EdgeInsets.only(
-            left: 8,
-            bottom: 3,
-          ),
+          padding: const EdgeInsets.only(left: 8, bottom: 3,),
           child: Text(
             title,
-            style: const TextStyle(
-              fontFamily: "Nunito",
-              fontSize: 17,
-              fontWeight: FontWeight.bold,
-              color: Color(0xff1a535c),
-            ),
+            style: const TextStyle(fontFamily: "Nunito", fontSize: 17,
+              fontWeight: FontWeight.bold, color: Color(0xff1a535c),),
           ),
         ),
-        const SizedBox(
-          height: 5,
-        ),
+        const SizedBox(height: 5,),
         Container(
           padding: const EdgeInsets.all(15),
-          decoration: BoxDecoration(
-            color: Colors.white,
-            borderRadius: BorderRadius.circular(12),
+          decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(12),
             boxShadow: [
-              BoxShadow(
-                offset: const Offset(0, 8),
-                blurRadius: 6,
+              BoxShadow(offset: const Offset(0, 8), blurRadius: 6,
                 color: Color(0xff1a535c).withOpacity(0.2),
               ),
             ],
