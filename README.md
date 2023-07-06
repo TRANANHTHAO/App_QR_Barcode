@@ -4,6 +4,8 @@ Quét mã vạch là ứng dụng di động được xây dựng trên nền t�
 
 # Mô Tả Chi Tiết
 
+# Hình Ảnh Demo 
+
 # Hướng Dẫn Cài Đặt 
 - B1: Tải code và giải nén file
 - B2: Mở code bằng android studio
