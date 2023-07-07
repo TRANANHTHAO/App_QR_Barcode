@@ -8,10 +8,10 @@ Quét mã vạch là ứng dụng di động được xây dựng trên nền t�
   <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/6019672d-53ee-4e1b-87e3-821c80263583" width="200">
    <br/>
    <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/546adce5-e453-4c5c-a073-facac9b65928" width="200">
-    <br/>
-    <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/239465c2-b8a4-481a-9e73-e5dccbe750be" width="200">
+    
+   <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/239465c2-b8a4-481a-9e73-e5dccbe750be" width="200">
      <br/>
-    <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/240bce13-208b-4f50-b640-1ba182641693" width="200">
+   <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/240bce13-208b-4f50-b640-1ba182641693" width="200">
      <br/>
  <img src="https://github.com/TRANANHTHAO/App_QR_Barcode/assets/103154241/8dedae36-dc70-4bc2-b7e8-99bf6f5c8b0b" width="200">
   <br/>
